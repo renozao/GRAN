@@ -1,0 +1,14 @@
+Package: pkgmaker
+Version: 0.25.1
+Depends: R (>= 3.0.0), stats, registry
+Imports: methods, tools, codetools, digest, stringr, xtable, grDevices
+Suggests: devtools (>= 0.8), bibtex, RUnit, testthat, knitr, argparse
+License: GPL (>= 2)
+
+Package: repotools
+Version: 1.4.1
+Depends: R (>= 3.0), pkgmaker (>= 0.25.5)
+Imports: digest, tools, devtools, RCurl, stringr
+Suggests: BiocInstaller, hwriter, ReportingTools
+License: GPL (>= 2)
+

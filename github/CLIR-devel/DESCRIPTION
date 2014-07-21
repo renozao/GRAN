@@ -1,0 +1,28 @@
+Package: CLIR
+Type: Package
+Title: Command Line Interface for R Packages
+Version: 1.1
+Date: 2013-11-01
+Author: Renaud Gaujoux
+Maintainer: Renaud Gaujoux <renaud@tx.technion.ac.il>
+Description: More about what it does (maybe more than one line)
+License: GPL (>=2)
+Depends:
+    methods,
+    yaml
+Imports:
+    tools,
+    argparse,
+    proto
+Suggests:
+    devtools
+Collate:
+    'utils.R'
+    'CLI.R'
+    'parser.R'
+    'rd.R'
+    'logging.R'
+    'qsub.R'
+GHuser: renozao
+GHref: develop
+GHfork: no
