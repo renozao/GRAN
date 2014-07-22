@@ -4,7 +4,7 @@ Depends: R (>= 3.0), pkgmaker (>= 0.25.6)
 Imports: digest, tools, devtools, RCurl, stringr
 Suggests: BiocInstaller, hwriter, ReportingTools, plyr
 License: GPL (>= 2)
-MD5sum: 953e6ef6512769c162b51557f4b44b5c
+MD5sum: 315a2b81417e17cdf99c3b6acf07b01c
 NeedsCompilation: yes
 
 Package: applyBy
