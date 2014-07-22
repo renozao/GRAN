@@ -64,7 +64,7 @@ GithubRef: master
 GithubFork: no
 
 Package: repotools
-Version: 1.5.4
+Version: 1.5.5
 Depends: R (>= 3.0), pkgmaker (>= 0.25.6)
 Imports: digest, tools, devtools, RCurl, stringr
 Suggests: BiocInstaller, hwriter, ReportingTools, plyr
@@ -74,7 +74,7 @@ GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-GithubSHA1: 32d93e147c886300ff3d47c684f4deea635752af
+GithubSHA1: 0c70372f2bcaa8f96c3e539533b84b5e2d2cc05a
 
 Package: xbioc
 Version: 0.1.3
