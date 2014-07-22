@@ -17,7 +17,7 @@ GithubRepo: applyBy
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
-Repository: file:///home/renaud/public_html/GRAN/github
+Repository: file:///home/renaud/Documents/projects/CRAN-lab/GRAN/github
 
 Package: applyBy
 Version: 1.0.2
@@ -29,7 +29,7 @@ GithubRepo: applyBy
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-Repository: file:///home/renaud/public_html/GRAN/github
+Repository: file:///home/renaud/Documents/projects/CRAN-lab/GRAN/github
 
 Package: CLIR
 Version: 1.1
@@ -42,7 +42,7 @@ GithubRepo: CLIR
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
-Repository: file:///home/renaud/public_html/GRAN/github
+Repository: file:///home/renaud/Documents/projects/CRAN-lab/GRAN/github
 
 Package: dbutils
 Version: 1.1.1
@@ -54,35 +54,33 @@ GithubRepo: dbutils
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-Repository: file:///home/renaud/public_html/GRAN/github
+Repository: file:///home/renaud/Documents/projects/CRAN-lab/GRAN/github
 
 Package: pkgmaker
 Version: 0.25.6
 Depends: R (>= 3.0.0), stats, registry
 Imports: methods, tools, codetools, digest, stringr, xtable, grDevices
-Suggests: devtools (>= 0.8), bibtex, RUnit, testthat, knitr, argparse,
-        repotools
+Suggests: devtools (>= 0.8), bibtex, RUnit, testthat, knitr, argparse, repotools
 License: GPL (>= 2)
 NeedsCompilation: no
 GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
-Repository: file:///home/renaud/public_html/GRAN/github
+Repository: file:///home/renaud/Documents/projects/CRAN-lab/GRAN/github
 
 Package: pkgmaker
 Version: 0.24
 Depends: R (>= 3.0.0), stats, registry
 Imports: methods, tools, codetools, digest, stringr, xtable, grDevices
-Suggests: devtools (>= 0.8), bibtex, RUnit, testthat, knitr,
-        ReportingTools, hwriter, argparse
+Suggests: devtools (>= 0.8), bibtex, RUnit, testthat, knitr, ReportingTools, hwriter, argparse
 License: GPL (>= 2)
 NeedsCompilation: no
 GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-Repository: file:///home/renaud/public_html/GRAN/github
+Repository: file:///home/renaud/Documents/projects/CRAN-lab/GRAN/github
 
 Package: repotools
 Version: 1.5
@@ -95,7 +93,7 @@ GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-Repository: file:///home/renaud/public_html/GRAN/github
+Repository: file:///home/renaud/Documents/projects/CRAN-lab/GRAN/github
 
 Package: xbioc
 Version: 0.1.3
@@ -108,4 +106,4 @@ GithubRepo: xbioc
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-Repository: file:///home/renaud/public_html/GRAN/github
+Repository: file:///home/renaud/Documents/projects/CRAN-lab/GRAN/github
