@@ -85,7 +85,7 @@ GithubFork: no
 Repository: file:///home/renaud/GRAN/gh-pages/github/contrib
 
 Package: repotools
-Version: 1.5.5
+Version: 1.5.6
 Depends: R (>= 3.0), pkgmaker (>= 0.25.6)
 Imports: digest, tools, devtools, RCurl, stringr
 Suggests: BiocInstaller, hwriter, ReportingTools, plyr
@@ -95,7 +95,7 @@ GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-GithubSHA1: 51411a3627a8121147ccfc46154d4214dc332c93
+GithubSHA1: 4bc2aac770881b5ec27235ab65d913953c12d680
 Repository: file:///home/renaud/GRAN/gh-pages/github/contrib
 
 Package: xbioc
