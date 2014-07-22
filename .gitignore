@@ -1,5 +1,6 @@
 # github source package root
-github/*
+#github/*
+commit-*
 # php files
 *.php
 # History files
