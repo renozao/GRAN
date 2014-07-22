@@ -1,10 +1,10 @@
 Package: repotools
-Version: 1.5.4
+Version: 1.6
 Depends: R (>= 3.0), pkgmaker (>= 0.25.6)
 Imports: digest, tools, devtools, RCurl, stringr
 Suggests: BiocInstaller, hwriter, ReportingTools, plyr
 License: GPL (>= 2)
-MD5sum: 341e4384bc5194295c63d4d83305d6ef
+MD5sum: 4a75a3158e6e7e37fb36c71d681c9be8
 NeedsCompilation: yes
 
 Package: applyBy
