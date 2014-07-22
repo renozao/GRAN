@@ -74,7 +74,7 @@ GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-GithubSHA1: bebda211279075ec1797b914022395143bc507b5
+GithubSHA1: 9d6f5a9c6f37122f253f893e6112786def02733a
 
 Package: xbioc
 Version: 0.1.3
