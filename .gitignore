@@ -1,4 +1,5 @@
 # github source package root
+config.php
 github/*
 # php files
 *.php
