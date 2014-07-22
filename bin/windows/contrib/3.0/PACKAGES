@@ -9,6 +9,6 @@ Package: repotools
 Version: 1.5.3
 Depends: R (>= 3.0), pkgmaker (>= 0.25.6)
 Imports: digest, tools, devtools, RCurl, stringr
-Suggests: BiocInstaller, hwriter, ReportingTools
+Suggests: BiocInstaller, hwriter, ReportingTools, plyr
 License: GPL (>= 2)
 
