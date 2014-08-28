@@ -1,7 +1,7 @@
 Package: pkgmaker
 Type: Package
 Title: Package development utilities
-Version: 0.25.6
+Version: 0.25.7
 Date: 2014-07-08
 Author: Renaud Gaujoux
 Maintainer: Renaud Gaujoux <renaud@tx.technion.ac.il>
@@ -36,8 +36,7 @@ Suggests:
     RUnit,
     testthat,
     knitr,
-    argparse,
-    repotools
+    argparse
 Collate:
     'utils.R'
     'logging.R'
@@ -62,6 +61,8 @@ Collate:
     'knitr.R'
     'user.R'
 VignetteBuilder: knitr
+GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: develop
+GithubSHA1: f248202237b94f0647b173b99de1230e4c453d99
 GithubFork: no
