@@ -56,6 +56,25 @@ GithubRef: master
 GithubFork: no
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
 
+Package: NMF
+Version: 0.21.3
+Depends: R (>= 3.1.0), methods, utils, pkgmaker (>= 0.25.7), registry,
+        rngtools (>= 1.2.3), cluster
+Imports: graphics, stats, stringr, digest, grid, grDevices, gridBase,
+        colorspace, RColorBrewer, foreach, doParallel (>= 1.0.8),
+        ggplot2, reshape2, dendextend
+Suggests: RcppOctave (>= 0.11), fastICA, doMPI, bigmemory (>= 4.2),
+        synchronicity, corpcor, xtable, devtools, knitr, bibtex, RUnit,
+        mail, Biobase
+License: GPL (>= 2)
+NeedsCompilation: yes
+GithubRepo: NMF
+GithubUsername: renozao
+GithubRef: devel
+GithubFork: no
+GithubSHA1: 2c1876a2b456325c854ee982eb990927a1c87188
+Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
+
 Package: pkgmaker
 Version: 0.25.7
 Depends: R (>= 3.0.0), stats, registry
