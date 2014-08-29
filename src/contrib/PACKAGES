@@ -86,7 +86,7 @@ GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
-GithubSHA1: f248202237b94f0647b173b99de1230e4c453d99
+GithubSHA1: 9bd30ccd308c8a5e8feed18550374479169a893a
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
 
 Package: pkgmaker
