@@ -19,15 +19,17 @@ GithubRef: master
 GithubFork: no
 
 Package: CLIR
-Version: 1.1
+Version: 1.1.1
 Depends: methods, yaml
-Imports: tools, argparse, proto
+Imports: tools, argparse, proto, digest
 Suggests: devtools
 License: GPL (>= 2)
 NeedsCompilation: no
+GithubRepo: CLIR
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
+GithubSHA1: 6442c0424c02b3b7321e8e4795cf2efc3d516de6
 
 Package: dbutils
 Version: 1.1.1
@@ -93,7 +95,7 @@ GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-GithubSHA1: 8d04a9c1afb83ce0225625b715a44372ad14db8f
+GithubSHA1: 67adc858f9e8682bcef322d966e9d743ccf426a0
 
 Package: xbioc
 Version: 0.1.4
@@ -106,5 +108,5 @@ GithubRepo: xbioc
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-GithubSHA1: 4ccc0498be67dd29b251122420afadae4793919f
+GithubSHA1: 7e0704461f1ed80924eabe9c5145bad2b6a4b1b5
 
