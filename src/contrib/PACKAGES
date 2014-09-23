@@ -129,5 +129,5 @@ GithubRepo: xbioc
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-GithubSHA1: 7e0704461f1ed80924eabe9c5145bad2b6a4b1b5
+GithubSHA1: c31edf8dd12162facc92be0dace1297b355f53ed
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
