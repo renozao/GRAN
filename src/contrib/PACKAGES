@@ -77,7 +77,7 @@ GithubSHA1: 433b7ab7493870b04cb0914ba1af96d56c81ed10
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
 
 Package: pkgmaker
-Version: 0.25.7
+Version: 0.25.8
 Depends: R (>= 3.0.0), stats, registry
 Imports: methods, tools, codetools, digest, stringr, xtable, grDevices
 Suggests: devtools (>= 0.8), bibtex, RUnit, testthat, knitr, argparse
@@ -87,7 +87,7 @@ GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
-GithubSHA1: 2a478f17b9490fe5be1e2ef69b2cc082d2c629ab
+GithubSHA1: 8002c90390e448a1ceab49b5cdc361f32344a877
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
 
 Package: pkgmaker
