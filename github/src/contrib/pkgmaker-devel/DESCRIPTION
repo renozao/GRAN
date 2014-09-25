@@ -1,7 +1,7 @@
 Package: pkgmaker
 Type: Package
 Title: Package development utilities
-Version: 0.25.7
+Version: 0.25.8
 Date: 2014-07-08
 Author: Renaud Gaujoux
 Maintainer: Renaud Gaujoux <renaud@tx.technion.ac.il>
@@ -64,5 +64,5 @@ VignetteBuilder: knitr
 GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: develop
-GithubSHA1: 2a478f17b9490fe5be1e2ef69b2cc082d2c629ab
+GithubSHA1: 8002c90390e448a1ceab49b5cdc361f32344a877
 GithubFork: no
