@@ -42,7 +42,7 @@ GithubRepo: CLIR
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
-GithubSHA1: 2b50cf953b64a558c91d999dfe392432a9b28cd4
+GithubSHA1: 9d07e1eb8ae8e30a2f7a00519b9e863dfb93aa7f
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
 
 Package: dbutils
