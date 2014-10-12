@@ -32,7 +32,7 @@ GithubFork: no
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
 
 Package: CLIR
-Version: 1.1.1
+Version: 1.1.2
 Depends: methods, yaml
 Imports: tools, argparse, proto, digest
 Suggests: devtools
@@ -42,7 +42,7 @@ GithubRepo: CLIR
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
-GithubSHA1: 6442c0424c02b3b7321e8e4795cf2efc3d516de6
+GithubSHA1: 2b50cf953b64a558c91d999dfe392432a9b28cd4
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
 
 Package: dbutils
