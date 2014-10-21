@@ -60,7 +60,7 @@ GithubFork: no
 GithubSHA1: 433b7ab7493870b04cb0914ba1af96d56c81ed10
 
 Package: pkgmaker
-Version: 0.25.8
+Version: 0.25.9
 Depends: R (>= 3.0.0), stats, registry
 Imports: methods, tools, codetools, digest, stringr, xtable, grDevices
 Suggests: devtools (>= 0.8), bibtex, RUnit, testthat, knitr, argparse
@@ -70,7 +70,7 @@ GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
-GithubSHA1: 35e9d6da9f35fc8a48e0bf47440d9099ffdaa659
+GithubSHA1: 3f3ab59cd36cf2e40eb17feffd63de47f82015ae
 
 Package: pkgmaker
 Version: 0.24
