@@ -116,7 +116,7 @@ GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-GithubSHA1: 6423c80d415b2df45bbdd0bdc1befb0268c5ef03
+GithubSHA1: ed7fa4702bc8f729cde131df2a0555f17e452bdd
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
 
 Package: xbioc
