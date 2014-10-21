@@ -85,9 +85,10 @@ GithubRef: master
 GithubFork: no
 
 Package: repotools
-Version: 1.7.2
+Version: 1.7.3
 Depends: R (>= 3.0)
-Imports: digest, tools, pkgmaker (>= 0.25.7), devtools, RCurl, stringr
+Imports: digest, tools, pkgmaker (>= 0.25.8), devtools (>= 1.6.1),
+        RCurl, stringr
 Suggests: BiocInstaller, hwriter, ReportingTools, plyr
 License: GPL (>= 2)
 NeedsCompilation: yes
@@ -95,7 +96,7 @@ GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-GithubSHA1: 7950e06299392e493458b5b602e9136e6a58033f
+GithubSHA1: 6423c80d415b2df45bbdd0bdc1befb0268c5ef03
 
 Package: xbioc
 Version: 0.1.4
