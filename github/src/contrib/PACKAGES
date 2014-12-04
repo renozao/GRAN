@@ -57,7 +57,7 @@ GithubRepo: NMF
 GithubUsername: renozao
 GithubRef: devel
 GithubFork: no
-GithubSHA1: 88827e5809f0f4c5317e463194f78af9bf681ec0
+GithubSHA1: 87b18f9cb936bdb379fc1231ea6d887974a3d642
 
 Package: pkgmaker
 Version: 0.25.9
