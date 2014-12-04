@@ -74,7 +74,7 @@ GithubRepo: NMF
 GithubUsername: renozao
 GithubRef: devel
 GithubFork: no
-GithubSHA1: f5125808f0f0acc9cae77c509b58103cc9a5ba8f
+GithubSHA1: 88827e5809f0f4c5317e463194f78af9bf681ec0
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
 
 Package: pkgmaker
