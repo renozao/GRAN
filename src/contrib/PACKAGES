@@ -59,7 +59,7 @@ GithubFork: no
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
 
 Package: NMF
-Version: 0.21.3
+Version: 0.22
 Depends: R (>= 3.1.0), methods, utils, pkgmaker (>= 0.25.7), registry,
         rngtools (>= 1.2.3), cluster
 Imports: graphics, stats, stringr, digest, grid, grDevices, gridBase,
@@ -74,7 +74,7 @@ GithubRepo: NMF
 GithubUsername: renozao
 GithubRef: devel
 GithubFork: no
-GithubSHA1: 87b18f9cb936bdb379fc1231ea6d887974a3d642
+GithubSHA1: 747dfcd38878e8ebd04af82f6fcf0df900628d9c
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
 
 Package: pkgmaker
