@@ -59,6 +59,24 @@ GithubRef: devel
 GithubFork: no
 GithubSHA1: 3aea77eacae35e20f5dd4f177f4aeb9f51a92ae7
 
+Package: NMF
+Version: 0.22
+Depends: R (>= 3.1.0), methods, utils, pkgmaker (>= 0.25.7), registry,
+        rngtools (>= 1.2.3), cluster
+Imports: graphics, stats, stringr, digest, grid, grDevices, gridBase,
+        colorspace, RColorBrewer, foreach, doParallel (>= 1.0.8),
+        ggplot2, reshape2, dendextend
+Suggests: RcppOctave (>= 0.11), fastICA, doMPI, bigmemory (>= 4.2),
+        synchronicity, corpcor, xtable, devtools, knitr, bibtex, RUnit,
+        mail, Biobase
+License: GPL (>= 2)
+NeedsCompilation: yes
+GithubRepo: NMF
+GithubUsername: renozao
+GithubRef: master
+GithubFork: no
+GithubSHA1: 8a5c2b684592c9e681b7ebdda96f8857f497953c
+
 Package: pkgmaker
 Version: 0.25.9
 Depends: R (>= 3.0.0), stats, registry
