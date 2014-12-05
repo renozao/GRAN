@@ -5,7 +5,7 @@ Imports: digest, tools, pkgmaker (>= 0.25.8), devtools (>= 1.6.1),
         RCurl, stringr
 Suggests: BiocInstaller, hwriter, ReportingTools, plyr
 License: GPL (>= 2)
-MD5sum: 1f5c1d51cb8ed68d6c2084a7cdaa0977
+MD5sum: 5f841ff8d0b619afde392f74460bfe5e
 NeedsCompilation: yes
 
 Package: applyBy
