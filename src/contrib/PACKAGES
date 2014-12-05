@@ -5,7 +5,7 @@ Imports: digest, tools, pkgmaker (>= 0.25.8), devtools (>= 1.6.1),
         RCurl, stringr
 Suggests: BiocInstaller, hwriter, ReportingTools, plyr
 License: GPL (>= 2)
-MD5sum: 92c3700e5a0db16f7416eb13b412180b
+MD5sum: 1f5c1d51cb8ed68d6c2084a7cdaa0977
 NeedsCompilation: yes
 
 Package: applyBy
@@ -14,6 +14,7 @@ Imports: matrixStats (>= 0.10), pkgmaker
 Suggests: Biobase
 License: GPL (>= 2)
 NeedsCompilation: no
+Date: 2013-11-29
 GithubRepo: applyBy
 GithubUsername: renozao
 GithubRef: develop
@@ -26,6 +27,7 @@ Imports: matrixStats (>= 0.10), pkgmaker
 Suggests: Biobase
 License: GPL (>= 2)
 NeedsCompilation: no
+Date: 2013-11-29
 GithubRepo: applyBy
 GithubUsername: renozao
 GithubRef: master
@@ -39,6 +41,7 @@ Imports: tools, argparse, proto, digest
 Suggests: devtools
 License: GPL (>= 2)
 NeedsCompilation: no
+Date: 2013-11-01
 GithubRepo: CLIR
 GithubUsername: renozao
 GithubRef: develop
@@ -52,6 +55,7 @@ Depends: R (>= 3.0)
 Imports: utils, DBI
 License: GPL (>= 2)
 NeedsCompilation: no
+Date: 2014-01-08
 GithubRepo: dbutils
 GithubUsername: renozao
 GithubRef: master
@@ -70,6 +74,7 @@ Suggests: RcppOctave (>= 0.11), fastICA, doMPI, bigmemory (>= 4.2),
         mail, Biobase
 License: GPL (>= 2)
 NeedsCompilation: yes
+Date: 2014-12-04
 GithubRepo: NMF
 GithubUsername: renozao
 GithubRef: devel
@@ -89,6 +94,7 @@ Suggests: RcppOctave (>= 0.11), fastICA, doMPI, bigmemory (>= 4.2),
         mail, Biobase
 License: GPL (>= 2)
 NeedsCompilation: yes
+Date: 2014-12-04
 GithubRepo: NMF
 GithubUsername: renozao
 GithubRef: master
@@ -103,6 +109,7 @@ Imports: methods, tools, codetools, digest, stringr, xtable, grDevices
 Suggests: devtools (>= 0.8), bibtex, RUnit, testthat, knitr, argparse
 License: GPL (>= 2)
 NeedsCompilation: no
+Date: 2014-07-08
 GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: develop
@@ -118,6 +125,7 @@ Suggests: devtools (>= 0.8), bibtex, RUnit, testthat, knitr,
         ReportingTools, hwriter, argparse
 License: GPL (>= 2)
 NeedsCompilation: no
+Date: 2013-09-17
 GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: master
@@ -132,11 +140,12 @@ Imports: digest, tools, pkgmaker (>= 0.25.8), devtools (>= 1.6.1),
 Suggests: BiocInstaller, hwriter, ReportingTools, plyr
 License: GPL (>= 2)
 NeedsCompilation: yes
+Date: 2014-12-05
 GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-GithubSHA1: bc0ca0158a5aa5b47c539521f7ce407975188867
+GithubSHA1: 450955f1435623d30c6626a6bdbc95dca034b8cd
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
 
 Package: xbioc
@@ -146,6 +155,7 @@ Imports: stats, pkgmaker (>= 0.25.4)
 Suggests: repotools, hgu133plus2.db, org.Hs.eg.db
 License: GPL (>= 3)
 NeedsCompilation: no
+Date: 2014-07-03
 GithubRepo: xbioc
 GithubUsername: renozao
 GithubRef: master
