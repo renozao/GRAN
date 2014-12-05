@@ -103,7 +103,7 @@ GithubRef: master
 GithubFork: no
 
 Package: repotools
-Version: 1.7.3
+Version: 1.7.4
 Depends: R (>= 3.0)
 Imports: digest, tools, pkgmaker (>= 0.25.8), devtools (>= 1.6.1),
         RCurl, stringr
@@ -114,7 +114,7 @@ GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-GithubSHA1: 0d418f0a40e8bc5bbd2096647da60e6525c74621
+GithubSHA1: f75b0c4d972c6e3f7cbd254f0a341649dd165b4b
 
 Package: xbioc
 Version: 0.1.4
