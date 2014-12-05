@@ -41,12 +41,12 @@ Imports: tools, argparse, proto, digest
 Suggests: devtools
 License: GPL (>= 2)
 NeedsCompilation: no
-Date: 2013-11-01
+Date: 2014-12-05
 GithubRepo: CLIR
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
-GithubSHA1: 063cebfc4e3863d973b16d0f0aa521bc3b36eaf5
+GithubSHA1: 92b9d62d6cf06aa539ec006e67a7379cf13a11a5
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
 
 Package: dbutils
