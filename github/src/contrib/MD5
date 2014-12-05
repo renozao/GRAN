@@ -19,7 +19,7 @@ repotools-release/commit-cf087c7b6515bce9e23e1cbd690e861186fe664a c5eaa8600362d8
 repotools-release/DESCRIPTION 59627e9a3f12be1277bf369c1faddf1f
 xbioc-release/DESCRIPTION faa8869c2ff4940499cd71b2a9da5ded
 bin/windows/contrib/3.0/pkgmaker_0.25.1.zip 3faeb5da06d81d9452b3423cd55f4560
-bin/windows/contrib/3.0/repotools_1.7.3.zip 6393e9e88a12f66f61ad2af8819f6c70
+bin/windows/contrib/3.0/repotools_1.7.4.zip e69983f47353693c585060002e384a34
 bin/windows/contrib/3.1/pkgmaker_0.25.1.zip 3faeb5da06d81d9452b3423cd55f4560
-bin/windows/contrib/3.1/repotools_1.7.3.zip 6393e9e88a12f66f61ad2af8819f6c70
-src/contrib/repotools_1.7.3.tar.gz 9b65266760925626dea5ff08f98ef194
+bin/windows/contrib/3.1/repotools_1.7.4.zip e69983f47353693c585060002e384a34
+src/contrib/repotools_1.7.4.tar.gz 92c3700e5a0db16f7416eb13b412180b
