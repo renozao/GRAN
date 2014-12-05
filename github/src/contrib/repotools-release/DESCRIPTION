@@ -1,8 +1,8 @@
 Package: repotools
 Type: Package
 Title: Tools for R Package Repositories
-Version: 1.7.3
-Date: 2014-13-06
+Version: 1.7.4
+Date: 2014-06-13
 Authors@R: person('Renaud', 'Gaujoux', email = 'renaud@tx.technion.ac.il', role
     = c('aut', 'cre'))
 Description: Provides utilities to facilitate the creation and usage of
@@ -35,5 +35,5 @@ Collate:
 GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
-GithubSHA1: 0d418f0a40e8bc5bbd2096647da60e6525c74621
+GithubSHA1: f75b0c4d972c6e3f7cbd254f0a341649dd165b4b
 GithubFork: no
