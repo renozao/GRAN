@@ -2,7 +2,7 @@ Package: applyBy
 Type: Package
 Title: Subset-wise apply functions to aggregate rows or columns of matrix-like
     objects
-Version: 1.0.3
+Version: 1.0.2
 Date: 2014-12-09
 Authors@R: c(person('Renaud', 'Gaujoux', email = 'renaud@tx.technion.ac.il',
     role = c('aut', 'cre')))
@@ -25,5 +25,5 @@ Collate:
 GithubRepo: applyBy
 GithubUsername: renozao
 GithubRef: develop
-GithubSHA1: 600972888c10c772f756249c5294b4571daa5af3
+GithubSHA1: 8043775fc988522089336ccfe4f742112d03a1da
 GithubFork: no
