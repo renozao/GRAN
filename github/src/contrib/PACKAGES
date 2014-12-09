@@ -1,5 +1,5 @@
 Package: applyBy
-Version: 1.0.2
+Version: 1.0.3
 Imports: matrixStats (>= 0.10), pkgmaker
 Suggests: Biobase
 License: GPL (>= 2)
@@ -9,7 +9,7 @@ GithubRepo: applyBy
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
-GithubSHA1: 8043775fc988522089336ccfe4f742112d03a1da
+GithubSHA1: d75d5ab7cd25be84faa14aaa1dddc899e3b05731
 
 Package: applyBy
 Version: 1.0.2
