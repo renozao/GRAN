@@ -1,13 +1,15 @@
 Package: applyBy
-Version: 1.0.2
+Version: 1.0.3
 Imports: matrixStats (>= 0.10), pkgmaker
 Suggests: Biobase
 License: GPL (>= 2)
 NeedsCompilation: no
-Date: 2013-11-29
+Date: 2014-12-09
+GithubRepo: applyBy
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
+GithubSHA1: 600972888c10c772f756249c5294b4571daa5af3
 
 Package: applyBy
 Version: 1.0.2
