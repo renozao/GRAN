@@ -48,7 +48,7 @@ GithubRef: master
 GithubFork: no
 
 Package: NMF
-Version: 0.23
+Version: 0.23.1
 Depends: R (>= 3.1.0), methods, utils, pkgmaker (>= 0.25.7), registry,
         rngtools (>= 1.2.3), cluster
 Imports: graphics, stats, stringr, digest, grid, grDevices, gridBase,
@@ -64,7 +64,7 @@ GithubRepo: NMF
 GithubUsername: renozao
 GithubRef: devel
 GithubFork: no
-GithubSHA1: b5e81b5572cc933938ff6df93629a453e15e61f0
+GithubSHA1: 606a73f50876fbcf1166e89de9aeeed081b55d5b
 
 Package: NMF
 Version: 0.22
