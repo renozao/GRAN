@@ -80,7 +80,7 @@ GithubRepo: NMF
 GithubUsername: renozao
 GithubRef: devel
 GithubFork: no
-GithubSHA1: 112455100c8626943628ada0f68b5df88804e7e5
+GithubSHA1: cb8e721f1bbea2874e564ae216fb20cc3691412b
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
 
 Package: NMF
