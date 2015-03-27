@@ -110,12 +110,12 @@ Imports: methods, tools, codetools, digest, stringr, xtable, grDevices
 Suggests: devtools (>= 0.8), bibtex, RUnit, testthat, knitr, argparse
 License: GPL (>= 2)
 NeedsCompilation: no
-Date: 2014-12-08
+Date: 2015-03-27
 GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
-GithubSHA1: 83474e93861b01c57df0618f4d92cc4139a8141f
+GithubSHA1: 5f271e625fd8a5773f3171c24bda94bd59a8c983
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
 
 Package: pkgmaker
