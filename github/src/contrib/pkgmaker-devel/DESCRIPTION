@@ -2,7 +2,7 @@ Package: pkgmaker
 Type: Package
 Title: Package development utilities
 Version: 0.25.9
-Date: 2014-12-08
+Date: 2015-03-27
 Author: Renaud Gaujoux
 Maintainer: Renaud Gaujoux <renaud@tx.technion.ac.il>
 Description: This package provides some low-level utilities to use for package
@@ -38,31 +38,30 @@ Suggests:
     knitr,
     argparse
 Collate:
+    'bibtex.R'
+    'colors.R'
+    'data.R'
     'utils.R'
     'logging.R'
     'unitTests.R'
-    'data.R'
     'namespace.R'
     'devutils.R'
-    'package.R'
-    'options.R'
-    'is.R'
-    'registry.R'
-    'bibtex.R'
-    'packages.R'
-    'vignette.R'
     'files.R'
-    'package-extra.R'
-    'colors.R'
     'graphics.R'
-    'rd.R'
-    'project.R'
-    'CLI.R'
+    'is.R'
     'knitr.R'
+    'options.R'
+    'registry.R'
+    'package-extra.R'
+    'package.R'
+    'packages.R'
+    'project.R'
+    'rd.R'
     'user.R'
+    'vignette.R'
 VignetteBuilder: knitr
 GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: develop
-GithubSHA1: 83474e93861b01c57df0618f4d92cc4139a8141f
+GithubSHA1: 5f271e625fd8a5773f3171c24bda94bd59a8c983
 GithubFork: no
