@@ -1,8 +1,8 @@
 Package: dbutils
 Type: Package
 Title: Database Utility Functions
-Version: 1.1.1
-Date: 2014-01-08
+Version: 1.1.2
+Date: 2015-05-14
 Authors@R: person('Renaud', 'Gaujoux', email = 'renaud@tx.technion.ac.il', role
     = c('aut', 'cre'))
 Description: More about what it does (maybe more than one line)
@@ -16,6 +16,8 @@ Collate:
     'dbManager.R'
     'SQLquery.R'
     'utils.R'
+GithubRepo: dbutils
 GithubUsername: renozao
 GithubRef: master
+GithubSHA1: 2295d9ea26436f424593f8ce96d5e0912e8979e0
 GithubFork: no
