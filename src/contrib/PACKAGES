@@ -51,16 +51,17 @@ GithubSHA1: 92b9d62d6cf06aa539ec006e67a7379cf13a11a5
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
 
 Package: dbutils
-Version: 1.1.1
+Version: 1.1.2
 Depends: R (>= 3.0)
 Imports: utils, DBI
 License: GPL (>= 2)
 NeedsCompilation: no
-Date: 2014-01-08
+Date: 2015-05-14
 GithubRepo: dbutils
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
+GithubSHA1: 2295d9ea26436f424593f8ce96d5e0912e8979e0
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
 
 Package: NMF
