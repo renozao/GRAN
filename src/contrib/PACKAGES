@@ -76,12 +76,12 @@ Suggests: RcppOctave (>= 0.11), fastICA, doMPI, bigmemory (>= 4.2),
         mail, Biobase
 License: GPL (>= 2)
 NeedsCompilation: yes
-Date: 2015-04-17
+Date: 2015-05-15
 GithubRepo: NMF
 GithubUsername: renozao
 GithubRef: devel
 GithubFork: no
-GithubSHA1: cd4d4ef88dac5d5e54bf1a7f55306b632e6fc279
+GithubSHA1: d26bde460ce795d8b090c683f45e1526e6225433
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
 
 Package: NMF
@@ -96,12 +96,12 @@ Suggests: RcppOctave (>= 0.11), fastICA, doMPI, bigmemory (>= 4.2),
         mail, Biobase
 License: GPL (>= 2)
 NeedsCompilation: yes
-Date: 2014-12-04
+Date: 2015-05-15
 GithubRepo: NMF
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-GithubSHA1: 8a5c2b684592c9e681b7ebdda96f8857f497953c
+GithubSHA1: 539ca247de5f0e022d880fd81fcc6a40e13c99d3
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
 
 Package: pkgmaker
