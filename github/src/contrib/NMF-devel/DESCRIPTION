@@ -2,7 +2,7 @@ Package: NMF
 Type: Package
 Title: Algorithms and framework for Nonnegative Matrix Factorization (NMF)
 Version: 0.23.1
-Date: 2015-04-17
+Date: 2015-05-15
 Author: Renaud Gaujoux, Cathal Seoighe
 Maintainer: Renaud Gaujoux <renaud@tx.technion.ac.il>
 Description: This package provides a framework to perform Non-negative Matrix
@@ -107,5 +107,5 @@ Collate:
 GithubRepo: NMF
 GithubUsername: renozao
 GithubRef: devel
-GithubSHA1: cd4d4ef88dac5d5e54bf1a7f55306b632e6fc279
+GithubSHA1: d26bde460ce795d8b090c683f45e1526e6225433
 GithubFork: no
