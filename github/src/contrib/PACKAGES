@@ -23,18 +23,18 @@ GithubRef: master
 GithubFork: no
 
 Package: CLIR
-Version: 1.1.2
+Version: 1.1.4
 Depends: methods, yaml
-Imports: tools, argparse, proto, digest
+Imports: tools, argparse, proto, digest, roxygen2
 Suggests: devtools
 License: GPL (>= 2)
 NeedsCompilation: no
-Date: 2014-12-05
+Date: 2015-05-27
 GithubRepo: CLIR
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
-GithubSHA1: 92b9d62d6cf06aa539ec006e67a7379cf13a11a5
+GithubSHA1: 601508349237797a9166a7030cef1618acfb8a90
 
 Package: dbutils
 Version: 1.1.2
