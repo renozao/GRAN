@@ -36,18 +36,18 @@ GithubFork: no
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
 
 Package: CLIR
-Version: 1.1.4
+Version: 1.1.6
 Depends: methods, yaml
 Imports: tools, argparse, proto, digest, roxygen2
 Suggests: devtools
 License: GPL (>= 2)
 NeedsCompilation: no
-Date: 2015-05-27
+Date: 2015-05-29
 GithubRepo: CLIR
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
-GithubSHA1: 601508349237797a9166a7030cef1618acfb8a90
+GithubSHA1: 602eac0177438e10ff9ee3ed4739c9e8aac46c62
 Repository: file:///home/renaud/GRAN/gh-pages/github/src/contrib
 
 Package: dbutils
