@@ -8,8 +8,7 @@ License: GPL (>= 2)
 Package: repotools
 Version: 1.7.4
 Depends: R (>= 3.0)
-Imports: digest, tools, pkgmaker (>= 0.25.8), devtools (>= 1.6.1),
-        RCurl, stringr
+Imports: digest, tools, pkgmaker (>= 0.25.8), devtools (>= 1.6.1), RCurl, stringr
 Suggests: BiocInstaller, hwriter, ReportingTools, plyr
 License: GPL (>= 2)
 
