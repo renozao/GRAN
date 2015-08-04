@@ -1,0 +1,67 @@
+Package: pkgmaker
+Type: Package
+Title: Package development utilities
+Version: 0.25.9
+Date: 2015-05-25
+Author: Renaud Gaujoux
+Maintainer: Renaud Gaujoux <renaud@tx.technion.ac.il>
+Description: This package provides some low-level utilities to use for package
+    development. It currently provides managers for multiple package specific
+    options and registries, vignette, unit test and bibtex related utilities.
+    It serves as a base package for packages like NMF, RcppOctave, doRNG, and
+    as an incubator package for other general purposes utilities, that will
+    eventually be packaged separately.
+    It is still under heavy development and changes in the interface(s) are
+    more than likely to happen.
+License: GPL (>=2)
+URL: https://renozao.github.io/pkgmaker
+BugReports: http://github.com/renozao/pkgmaker/issues
+SCM: github+gran:renozao, r-forge
+LazyLoad: yes
+Depends:
+    R (>= 3.0.0),
+    stats,
+    registry
+Imports:
+    methods,
+    tools,
+    codetools,
+    digest,
+    stringr,
+    xtable,
+    grDevices
+Suggests:
+    devtools (>= 0.8),
+    bibtex,
+    RUnit,
+    testthat,
+    knitr,
+    argparse
+Collate:
+    'bibtex.R'
+    'colors.R'
+    'data.R'
+    'utils.R'
+    'logging.R'
+    'unitTests.R'
+    'namespace.R'
+    'devutils.R'
+    'files.R'
+    'graphics.R'
+    'is.R'
+    'knitr.R'
+    'options.R'
+    'registry.R'
+    'package-extra.R'
+    'package.R'
+    'packages.R'
+    'project.R'
+    'rd.R'
+    'user.R'
+    'vignette.R'
+VignetteBuilder: knitr
+GithubRepo: pkgmaker
+GithubUsername: renozao
+GithubRef: develop
+GithubSHA1: 751511b0777c872ac5f05222f9a7cba64f926bb7
+GithubFork: no
