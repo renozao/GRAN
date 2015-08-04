@@ -36,3 +36,158 @@ GithubRef: master
 GithubFork: no
 GithubSHA1: 539ca247de5f0e022d880fd81fcc6a40e13c99d3
 
+Package: applyBy
+Version: 1.0.3
+Imports: matrixStats (>= 0.10), pkgmaker
+Suggests: Biobase
+License: GPL (>= 2)
+NeedsCompilation: no
+Date: 2014-12-09
+GithubRepo: applyBy
+GithubUsername: renozao
+GithubRef: develop
+GithubFork: no
+GithubSHA1: d75d5ab7cd25be84faa14aaa1dddc899e3b05731
+Path: ./github.com/renozao/applyBy/tarball/develop
+
+Package: applyBy
+Version: 1.0.2
+Imports: matrixStats (>= 0.10), pkgmaker
+Suggests: Biobase
+License: GPL (>= 2)
+NeedsCompilation: no
+Date: 2013-11-29
+GithubUsername: renozao
+GithubRef: master
+GithubFork: no
+Path: ./github.com/renozao/applyBy/tarball/master
+
+Package: CLIR
+Version: 1.1.6
+Depends: methods, yaml
+Imports: tools, argparse, proto, digest, roxygen2
+Suggests: devtools
+License: GPL (>= 2)
+NeedsCompilation: no
+Date: 2015-05-29
+GithubRepo: CLIR
+GithubUsername: renozao
+GithubRef: develop
+GithubFork: no
+GithubSHA1: 602eac0177438e10ff9ee3ed4739c9e8aac46c62
+Path: ./github.com/renozao/CLIR/tarball/develop
+
+Package: dbutils
+Version: 1.1.2
+Depends: R (>= 3.0)
+Imports: utils, DBI
+License: GPL (>= 2)
+NeedsCompilation: no
+Date: 2015-05-14
+GithubRepo: dbutils
+GithubUsername: renozao
+GithubRef: master
+GithubFork: no
+GithubSHA1: 2295d9ea26436f424593f8ce96d5e0912e8979e0
+Path: ./github.com/renozao/dbutils/tarball/master
+
+Package: NMF
+Version: 0.23.1
+Depends: R (>= 3.1.0), methods, utils, pkgmaker (>= 0.25.7), registry,
+        rngtools (>= 1.2.3), cluster
+Imports: graphics, stats, stringr, digest, grid, grDevices, gridBase,
+        colorspace, RColorBrewer, foreach, doParallel (>= 1.0.8),
+        ggplot2, reshape2, dendextend
+Suggests: RcppOctave (>= 0.11), fastICA, doMPI, bigmemory (>= 4.2),
+        synchronicity, corpcor, xtable, devtools, knitr, bibtex, RUnit,
+        mail, Biobase
+License: GPL (>= 2)
+NeedsCompilation: yes
+Date: 2015-06-17
+GithubRepo: NMF
+GithubUsername: renozao
+GithubRef: devel
+GithubFork: no
+GithubSHA1: a4073dbc090a4446a1bdc7d7a90b187ab2083e66
+Path: ./github.com/renozao/NMF/tarball/devel
+
+Package: NMF
+Version: 0.22
+Depends: R (>= 3.1.0), methods, utils, pkgmaker (>= 0.25.7), registry,
+        rngtools (>= 1.2.3), cluster
+Imports: graphics, stats, stringr, digest, grid, grDevices, gridBase,
+        colorspace, RColorBrewer, foreach, doParallel (>= 1.0.8),
+        ggplot2, reshape2, dendextend
+Suggests: RcppOctave (>= 0.11), fastICA, doMPI, bigmemory (>= 4.2),
+        synchronicity, corpcor, xtable, devtools, knitr, bibtex, RUnit,
+        mail, Biobase
+License: GPL (>= 2)
+NeedsCompilation: yes
+Date: 2015-05-15
+GithubRepo: NMF
+GithubUsername: renozao
+GithubRef: master
+GithubFork: no
+GithubSHA1: 539ca247de5f0e022d880fd81fcc6a40e13c99d3
+Path: ./github.com/renozao/NMF/tarball/master
+
+Package: pkgmaker
+Version: 0.25.9
+Depends: R (>= 3.0.0), stats, registry
+Imports: methods, tools, codetools, digest, stringr, xtable, grDevices
+Suggests: devtools (>= 0.8), bibtex, RUnit, testthat, knitr, argparse
+License: GPL (>= 2)
+NeedsCompilation: no
+Date: 2015-05-25
+GithubRepo: pkgmaker
+GithubUsername: renozao
+GithubRef: develop
+GithubFork: no
+GithubSHA1: 751511b0777c872ac5f05222f9a7cba64f926bb7
+Path: ./github.com/renozao/pkgmaker/tarball/develop
+
+Package: pkgmaker
+Version: 0.24
+Depends: R (>= 3.0.0), stats, registry
+Imports: methods, tools, codetools, digest, stringr, xtable, grDevices
+Suggests: devtools (>= 0.8), bibtex, RUnit, testthat, knitr,
+        ReportingTools, hwriter, argparse
+License: GPL (>= 2)
+NeedsCompilation: no
+Date: 2013-09-17
+GithubUsername: renozao
+GithubRef: master
+GithubFork: no
+Path: ./github.com/renozao/pkgmaker/tarball/master
+
+Package: repotools
+Version: 1.7.5
+Depends: R (>= 3.0)
+Imports: digest, tools, pkgmaker (>= 0.25.8), devtools (>= 1.6.1),
+        RCurl, stringr
+Suggests: BiocInstaller, hwriter, ReportingTools, plyr
+License: GPL (>= 2)
+NeedsCompilation: yes
+Date: 2015-01-27
+GithubRepo: repotools
+GithubUsername: renozao
+GithubRef: master
+GithubFork: no
+GithubSHA1: 11bf3baa287346577fe013b462dd9956cf0d1194
+Path: ./github.com/renozao/repotools/tarball/master
+
+Package: xbioc
+Version: 0.1.4
+Depends: R (>= 3.1), methods, Biobase, AnnotationDbi
+Imports: stats, pkgmaker (>= 0.25.4)
+Suggests: repotools, hgu133plus2.db, org.Hs.eg.db
+License: GPL (>= 3)
+NeedsCompilation: no
+Date: 2014-07-03
+GithubRepo: xbioc
+GithubUsername: renozao
+GithubRef: master
+GithubFork: no
+GithubSHA1: 50b8ea7757200e8052c40d8f530121d2abf79644
+Path: ./github.com/renozao/xbioc/tarball/master
+

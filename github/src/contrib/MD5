@@ -24,8 +24,8 @@ repotools-release/commit-bebda211279075ec1797b914022395143bc507b5 590d43b8533b95
 repotools-release/commit-cda9aebf4ca786471174dcd4236274d79127cbf2 d05870e24fa032ea8d5b6b109c005234
 repotools-release/commit-cf087c7b6515bce9e23e1cbd690e861186fe664a c5eaa8600362d837b18d9936b3c67e34
 bin/windows/contrib/3.0/pkgmaker_0.25.1.zip 3faeb5da06d81d9452b3423cd55f4560
-bin/windows/contrib/3.0/repotools_1.7.5.zip b9e62f9fb2edde96f6cc8c54d7085d00
+bin/windows/contrib/3.0/repotools_1.7.5.zip fe38b200aece7d6ec9854f7f4af395b2
 bin/windows/contrib/3.1/pkgmaker_0.25.1.zip 3faeb5da06d81d9452b3423cd55f4560
-bin/windows/contrib/3.1/repotools_1.7.5.zip b9e62f9fb2edde96f6cc8c54d7085d00
-bin/windows/contrib/3.2/repotools_1.7.5.zip b9e62f9fb2edde96f6cc8c54d7085d00
-src/contrib/repotools_1.7.5.tar.gz 399f332f58e4e7aae0de133614d37052
+bin/windows/contrib/3.1/repotools_1.7.5.zip fe38b200aece7d6ec9854f7f4af395b2
+bin/windows/contrib/3.2/repotools_1.7.5.zip fe38b200aece7d6ec9854f7f4af395b2
+src/contrib/repotools_1.7.5.tar.gz 26f6da432ed553d1cea71bf6bbc2c796
