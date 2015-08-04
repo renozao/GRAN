@@ -1,0 +1,39 @@
+Package: repotools
+Type: Package
+Title: Tools for R Package Repositories
+Version: 1.7.5
+Date: 2015-01-27
+Authors@R: person('Renaud', 'Gaujoux', email = 'renaud@tx.technion.ac.il', role
+    = c('aut', 'cre'))
+Description: Provides utilities to facilitate the creation and usage of
+    CRAN-like repositories, including providing access to a GitHub-driven
+    repository.
+License: GPL (>=2)
+SCM: github+gran:renozao
+Depends:
+    R (>= 3.0)
+Imports:
+    digest,
+    tools,
+    pkgmaker (>= 0.25.8),
+    devtools (>= 1.6.1),
+    RCurl,
+    stringr
+Suggests:
+    BiocInstaller,
+    hwriter,
+    ReportingTools,
+    plyr
+Collate:
+    'GRAN.R'
+    'utils.R'
+    'url.R'
+    'download.R'
+    'api.R'
+    'packages.R'
+    'repositories.R'
+GithubRepo: repotools
+GithubUsername: renozao
+GithubRef: master
+GithubSHA1: 11bf3baa287346577fe013b462dd9956cf0d1194
+GithubFork: no
