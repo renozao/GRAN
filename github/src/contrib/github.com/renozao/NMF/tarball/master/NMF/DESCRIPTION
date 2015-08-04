@@ -1,0 +1,111 @@
+Package: NMF
+Type: Package
+Title: Algorithms and framework for Nonnegative Matrix Factorization (NMF)
+Version: 0.22
+Date: 2015-05-15
+Author: Renaud Gaujoux, Cathal Seoighe
+Maintainer: Renaud Gaujoux <renaud@tx.technion.ac.il>
+Description: This package provides a framework to perform Non-negative Matrix
+    Factorization (NMF). It implements a set of already published algorithms
+    and seeding methods, and provides a framework to test, develop and plug
+    new/custom algorithms. Most of the built-in algorithms have been optimized
+    in C++, and the main interface function provides an easy way of performing
+    parallel computations on multicore machines.
+License: GPL (>=2)
+URL: http://renozao.github.io/NMF
+BugReports: http://github.com/renozao/NMF/issues
+SCM: github+gran:renozao, r-forge
+LazyLoad: yes
+VignetteBuilder: knitr
+Depends:
+    R (>= 3.1.0),
+    methods,
+    utils,
+    pkgmaker (>= 0.25.7),
+    registry,
+    rngtools (>= 1.2.3),
+    cluster
+Imports:
+    graphics,
+    stats,
+    stringr,
+    digest,
+    grid,
+    grDevices,
+    gridBase,
+    colorspace,
+    RColorBrewer,
+    foreach,
+    doParallel (>= 1.0.8),
+    ggplot2,
+    reshape2,
+    dendextend
+Suggests:
+    RcppOctave (>= 0.11),
+    fastICA,
+    doMPI,
+    bigmemory (>= 4.2),
+    synchronicity,
+    corpcor,
+    xtable,
+    devtools,
+    knitr,
+    bibtex,
+    RUnit,
+    mail,
+    Biobase
+Collate:
+    'rmatrix.R'
+    'nmf-package.R'
+    'utils.R'
+    'versions.R'
+    'algorithmic.R'
+    'options.R'
+    'grid.R'
+    'colorcode.R'
+    'atracks.R'
+    'aheatmap.R'
+    'NMF-class.R'
+    'transforms.R'
+    'Bioc-layer.R'
+    'NMFstd-class.R'
+    'NMFOffset-class.R'
+    'registry.R'
+    'heatmaps.R'
+    'NMFns-class.R'
+    'nmfModel.R'
+    'fixed-terms.R'
+    'NMFfit-class.R'
+    'NMFSet-class.R'
+    'NMFStrategy-class.R'
+    'NMFSeed-class.R'
+    'NMFStrategyFunction-class.R'
+    'NMFStrategyIterative-class.R'
+    'NMFStrategyOctave-class.R'
+    'NMFplots.R'
+    'registry-algorithms.R'
+    'algorithms-base.R'
+    'algorithms-brunet.R'
+    'algorithms-lnmf.R'
+    'algorithms-lsnmf.R'
+    'algorithms-pe-nmf.R'
+    'algorithms-siNMF.R'
+    'algorithms-snmf.R'
+    'data.R'
+    'extractFeatures.R'
+    'registry-seed.R'
+    'parallel.R'
+    'nmf.R'
+    'rnmf.R'
+    'run.R'
+    'seed-base.R'
+    'seed-ica.R'
+    'seed-nndsvd.R'
+    'setNMFClass.R'
+    'simulation.R'
+    'tests.R'
+GithubRepo: NMF
+GithubUsername: renozao
+GithubRef: master
+GithubSHA1: 539ca247de5f0e022d880fd81fcc6a40e13c99d3
+GithubFork: no
