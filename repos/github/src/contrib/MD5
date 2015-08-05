@@ -13,8 +13,8 @@ github.com/renozao/repotools/tarball/master/repotools/DESCRIPTION efe1f2489a8e34
 github.com/renozao/repotools/tarball/master/repotools/src/README d41d8cd98f00b204e9800998ecf8427e
 github.com/renozao/xbioc/tarball/master/xbioc/DESCRIPTION faa8869c2ff4940499cd71b2a9da5ded
 bin/windows/contrib/3.0/pkgmaker_0.25.1.zip 3faeb5da06d81d9452b3423cd55f4560
-bin/windows/contrib/3.0/repotools_1.7.5.zip fe38b200aece7d6ec9854f7f4af395b2
+bin/windows/contrib/3.0/repotools_1.7.5.zip 75e29c3ebec8063f4af70e33a53abd44
 bin/windows/contrib/3.1/pkgmaker_0.25.1.zip 3faeb5da06d81d9452b3423cd55f4560
-bin/windows/contrib/3.1/repotools_1.7.5.zip fe38b200aece7d6ec9854f7f4af395b2
-bin/windows/contrib/3.2/repotools_1.7.5.zip fe38b200aece7d6ec9854f7f4af395b2
-src/contrib/repotools_1.7.5.tar.gz 26f6da432ed553d1cea71bf6bbc2c796
+bin/windows/contrib/3.1/repotools_1.7.5.zip 75e29c3ebec8063f4af70e33a53abd44
+bin/windows/contrib/3.2/repotools_1.7.5.zip 75e29c3ebec8063f4af70e33a53abd44
+src/contrib/repotools_1.7.5.tar.gz 749be791d5952e4462f27233a09e6b0a
