@@ -141,12 +141,12 @@ Imports: digest, tools, pkgmaker (>= 0.25.8), devtools (>= 1.6.1),
 Suggests: BiocInstaller, hwriter, ReportingTools, plyr
 License: GPL (>= 2)
 NeedsCompilation: yes
-Date: 2015-01-27
+Date: 2015-08-13
 GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-GithubSHA1: 11bf3baa287346577fe013b462dd9956cf0d1194
+GithubSHA1: c43b8e7007288fd841529c70af77bb5d78c33939
 Path: ./github.com/renozao/repotools/tarball/master
 Depends: R (>= 3.0)
 
