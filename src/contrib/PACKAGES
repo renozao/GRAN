@@ -146,7 +146,7 @@ GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-GithubSHA1: 7ade85efca90764d7a6e22982b4f33a8901f3a89
+GithubSHA1: c3527c4111805bcaf2a1f43d6420734274e7346b
 Path: ./github.com/renozao/repotools/tarball/master
 Depends: R (>= 3.0)
 
