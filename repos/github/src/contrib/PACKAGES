@@ -135,7 +135,7 @@ GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-GithubSHA1: 9d23b8df6409894ab41ddff4cdc103f509eaf3c6
+GithubSHA1: 8cd715cfc715d87e2070ca94b7940b76d0e2cd21
 Path: ./github.com/renozao/repotools/tarball/master
 
 Package: xbioc
