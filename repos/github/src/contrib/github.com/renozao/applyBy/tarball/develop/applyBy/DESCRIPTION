@@ -2,8 +2,8 @@ Package: applyBy
 Type: Package
 Title: Subset-wise apply functions to aggregate rows or columns of matrix-like
     objects
-Version: 1.0.3
-Date: 2014-12-09
+Version: 1.1
+Date: 2015-09-07
 Authors@R: c(person('Renaud', 'Gaujoux', email = 'renaud@tx.technion.ac.il',
     role = c('aut', 'cre')))
 Description: This package defines a function applyBy that enables applying a
@@ -25,5 +25,5 @@ Collate:
 GithubRepo: applyBy
 GithubUsername: renozao
 GithubRef: develop
-GithubSHA1: d75d5ab7cd25be84faa14aaa1dddc899e3b05731
+GithubSHA1: 535c47559a0300808a8a9247d1fb1c43f74511f5
 GithubFork: no
