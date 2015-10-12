@@ -65,7 +65,7 @@ Path: ./github.com/renozao/dbutils/tarball/master
 Depends: R (>= 3.0)
 
 Package: NMF
-Version: 0.23.2
+Version: 0.23.3
 Imports: graphics, stats, stringr, digest, grid, grDevices, gridBase,
         colorspace, RColorBrewer, foreach, doParallel (>= 1.0.8),
         ggplot2, reshape2, dendextend
@@ -74,12 +74,12 @@ Suggests: RcppOctave (>= 0.11), fastICA, doMPI, bigmemory (>= 4.2),
         mail, Biobase
 License: GPL (>= 2)
 NeedsCompilation: yes
-Date: 2015-09-03
+Date: 2015-10-12
 GithubRepo: NMF
 GithubUsername: renozao
 GithubRef: devel
 GithubFork: no
-GithubSHA1: bbf6ed84c075594b80d1c13b07cc4484c84bca45
+GithubSHA1: 7e63e04ca26780fda8e17567f80148aae3c6f768
 Path: ./github.com/renozao/NMF/tarball/devel
 Depends: R (>= 3.1.0), methods, utils, pkgmaker (>= 0.25.7), registry,
         rngtools (>= 1.2.3), cluster
