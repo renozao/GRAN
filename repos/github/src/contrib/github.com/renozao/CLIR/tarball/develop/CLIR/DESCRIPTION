@@ -1,8 +1,8 @@
 Package: CLIR
 Type: Package
 Title: Command Line Interface for R Packages
-Version: 1.1.6
-Date: 2015-05-29
+Version: 1.1.7
+Date: 2015-11-12
 Author: Renaud Gaujoux
 Maintainer: Renaud Gaujoux <renaud@tx.technion.ac.il>
 Description: More about what it does (maybe more than one line)
@@ -28,5 +28,5 @@ Collate:
 GithubRepo: CLIR
 GithubUsername: renozao
 GithubRef: develop
-GithubSHA1: 602eac0177438e10ff9ee3ed4739c9e8aac46c62
+GithubSHA1: ccdc9bf5b5cdf0abc55b3061a556db8620e48472
 GithubFork: no
