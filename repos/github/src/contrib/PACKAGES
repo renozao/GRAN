@@ -97,15 +97,16 @@ Package: pkgmaker
 Version: 0.25.10
 Depends: R (>= 3.0.0), stats, registry
 Imports: methods, tools, codetools, digest, stringr, xtable, grDevices
-Suggests: devtools (>= 0.8), bibtex, RUnit, testthat, knitr, argparse
+Suggests: devtools (>= 0.8), bibtex, RUnit, testthat, knitr, rmarkdown,
+        yaml, argparse
 License: GPL (>= 2)
 NeedsCompilation: no
-Date: 2015-11-25
+Date: 2016-02-12
 GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
-GithubSHA1: 7f496b0749067742dec22cc0aaaa1248897ac014
+GithubSHA1: 206e52901a16e32faa14bcc7f9c89f20d4f7e979
 Path: ./github.com/renozao/pkgmaker/tarball/develop
 
 Package: pkgmaker
