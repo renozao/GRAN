@@ -101,12 +101,12 @@ Suggests: devtools (>= 0.8), bibtex, RUnit, testthat, knitr, rmarkdown,
         yaml, argparse
 License: GPL (>= 2)
 NeedsCompilation: no
-Date: 2016-02-12
+Date: 2016-02-16
 GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
-GithubSHA1: 206e52901a16e32faa14bcc7f9c89f20d4f7e979
+GithubSHA1: 02e52e90475469788fc8b612525350e7007b6abe
 Path: ./github.com/renozao/pkgmaker/tarball/develop
 
 Package: pkgmaker
