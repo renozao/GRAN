@@ -116,7 +116,7 @@ GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
-GithubSHA1: 02e52e90475469788fc8b612525350e7007b6abe
+GithubSHA1: 19b7bcd9676f5eb08ef14cc89298206c1ee57053
 Path: ./github.com/renozao/pkgmaker/tarball/develop
 Depends: R (>= 3.0.0), stats, registry
 
