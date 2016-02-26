@@ -25,11 +25,13 @@ Depends:
 Imports:
     methods,
     tools,
+    grDevices,
+    utils,
+    graphics,
     codetools,
     digest,
     stringr,
-    xtable,
-    grDevices
+    xtable
 Suggests:
     devtools (>= 0.8),
     bibtex,
@@ -66,5 +68,5 @@ VignetteBuilder: knitr
 GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: develop
-GithubSHA1: 5cf362d31944a22820cbfef731535f8ca772ecce
+GithubSHA1: 5af4da29c23ed9d3119a51ef90efa9229cf0f6e9
 GithubFork: no
