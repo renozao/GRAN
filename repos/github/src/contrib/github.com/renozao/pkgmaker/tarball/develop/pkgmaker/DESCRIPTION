@@ -1,8 +1,8 @@
 Package: pkgmaker
 Type: Package
-Title: Package development utilities
+Title: Development Utilities for R Packages
 Version: 0.25.10
-Date: 2016-02-16
+Date: 2016-02-26
 Author: Renaud Gaujoux
 Maintainer: Renaud Gaujoux <renaud@tx.technion.ac.il>
 Description: This package provides some low-level utilities to use for package
@@ -66,5 +66,5 @@ VignetteBuilder: knitr
 GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: develop
-GithubSHA1: 19b7bcd9676f5eb08ef14cc89298206c1ee57053
+GithubSHA1: 599945882b332e4862781aef4fe531f5090f8057
 GithubFork: no
