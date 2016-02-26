@@ -66,5 +66,5 @@ VignetteBuilder: knitr
 GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: develop
-GithubSHA1: 599945882b332e4862781aef4fe531f5090f8057
+GithubSHA1: 5cf362d31944a22820cbfef731535f8ca772ecce
 GithubFork: no
