@@ -90,7 +90,7 @@ GithubRepo: NMF
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-GithubSHA1: 65cb82085ba1861f3a3d286bdd3d6d63a977fe33
+GithubSHA1: c227a4d352b8d054a16fa6a03b4e24e3e84c3187
 Path: ./github.com/renozao/NMF/tarball/master
 
 Package: pkgmaker
