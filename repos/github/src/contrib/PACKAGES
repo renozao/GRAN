@@ -70,7 +70,7 @@ GithubRepo: NMF
 GithubUsername: renozao
 GithubRef: devel
 GithubFork: no
-GithubSHA1: 495c2d24150c1533a9ce3da931e24dd547afd8d7
+GithubSHA1: cf9d08af4521e1fd24f5b7789e83a2689be77765
 Path: ./github.com/renozao/NMF/tarball/devel
 
 Package: NMF
