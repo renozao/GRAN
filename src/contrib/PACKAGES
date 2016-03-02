@@ -74,12 +74,12 @@ Suggests: RcppOctave (>= 0.11), fastICA, doMPI, bigmemory (>= 4.2),
         mail, Biobase
 License: GPL (>= 2)
 NeedsCompilation: yes
-Date: 2016-02-29
+Date: 2016-03-02
 GithubRepo: NMF
 GithubUsername: renozao
 GithubRef: devel
 GithubFork: no
-GithubSHA1: 33d5ac919f23dbaac1310f4b6d1d066fcac96992
+GithubSHA1: c95f45a2ce0c50a33de460c9fcfc4ed3c29c9de7
 Path: ./github.com/renozao/NMF/tarball/devel
 Depends: R (>= 3.1.0), methods, utils, pkgmaker (>= 0.25.7), registry,
         rngtools (>= 1.2.3), cluster
