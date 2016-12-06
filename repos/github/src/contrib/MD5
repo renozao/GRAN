@@ -11,7 +11,7 @@ github.com/renozao/pkgmaker/tarball/develop/pkgmaker/DESCRIPTION da3a57ee8a2e1b8
 github.com/renozao/pkgmaker/tarball/master/pkgmaker/DESCRIPTION bbe4329fd48f7f8ee549e0f0a01e5637
 github.com/renozao/repotools/tarball/master/repotools/DESCRIPTION 1c2f13df4a3eab0ce664b02fc28426d3
 github.com/renozao/repotools/tarball/master/repotools/src/README d41d8cd98f00b204e9800998ecf8427e
-github.com/renozao/xbioc/tarball/master/xbioc/DESCRIPTION faa8869c2ff4940499cd71b2a9da5ded
+github.com/renozao/xbioc/tarball/master/xbioc/DESCRIPTION 05a6e10604a57b8a90d2bb7b0e0765ec
 bin/windows/contrib/3.0/pkgmaker_0.25.1.zip 3faeb5da06d81d9452b3423cd55f4560
 bin/windows/contrib/3.0/repotools_1.7.5.zip 75e29c3ebec8063f4af70e33a53abd44
 bin/windows/contrib/3.1/pkgmaker_0.25.1.zip 3faeb5da06d81d9452b3423cd55f4560

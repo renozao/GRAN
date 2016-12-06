@@ -141,17 +141,17 @@ GithubSHA1: a6a2d2aa2f526f559ff28b048d98b2aacf86bb0b
 Path: ./github.com/renozao/repotools/tarball/master
 
 Package: xbioc
-Version: 0.1.4
+Version: 0.1.5
 Depends: R (>= 3.1), methods, Biobase, AnnotationDbi
-Imports: stats, pkgmaker (>= 0.25.4)
+Imports: stats, pkgmaker (>= 0.25.4), plyr
 Suggests: repotools, hgu133plus2.db, org.Hs.eg.db
 License: GPL (>= 3)
 NeedsCompilation: no
-Date: 2014-07-03
+Date: 2016-12-06
 GithubRepo: xbioc
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-GithubSHA1: 50b8ea7757200e8052c40d8f530121d2abf79644
+GithubSHA1: 8e124b92d1a3b344a2e7c474a765846de52e8d0d
 Path: ./github.com/renozao/xbioc/tarball/master
 
