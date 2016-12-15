@@ -41,12 +41,12 @@ Imports: tools, argparse, proto, digest, roxygen2
 Suggests: devtools
 License: GPL (>= 2)
 NeedsCompilation: no
-Date: 2016-12-14
+Date: 2016-12-15
 GithubRepo: CLIR
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
-GithubSHA1: 9c042067792b645abdf048f90e2b6cf0811e3c24
+GithubSHA1: 881941c18bb6ab8731802c3db292cb766c40c7a5
 Path: ./github.com/renozao/CLIR/tarball/develop
 Depends: methods, yaml
 
