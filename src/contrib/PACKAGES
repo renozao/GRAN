@@ -137,7 +137,7 @@ Path: ./github.com/renozao/pkgmaker/tarball/master
 Depends: R (>= 3.0.0), stats, registry
 
 Package: repotools
-Version: 1.7.5
+Version: 1.7.7
 Imports: digest, tools, pkgmaker (>= 0.25.8), devtools (>= 1.6.1),
         RCurl, stringr
 Suggests: BiocInstaller, hwriter, ReportingTools, plyr
@@ -148,7 +148,7 @@ GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-GithubSHA1: 99ed755643f6863ec7fd6c635f5651a93407a59b
+GithubSHA1: e0e8cef4703c5aaf3da6fe8d877ef404e9b53c33
 Path: ./github.com/renozao/repotools/tarball/master
 Depends: R (>= 3.0)
 
