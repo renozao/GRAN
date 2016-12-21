@@ -132,12 +132,12 @@ Imports: digest, tools, pkgmaker (>= 0.25.8), devtools (>= 1.6.1),
 Suggests: BiocInstaller, hwriter, ReportingTools, plyr
 License: GPL (>= 2)
 NeedsCompilation: yes
-Date: 2016-12-20
+Date: 2016-12-21
 GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-GithubSHA1: 5fc2ae6568abff6a075ac3f4c0ca12642112931a
+GithubSHA1: f249cf987fa9c853d9de2b302504e2466e0e9c16
 Path: ./github.com/renozao/repotools/tarball/master
 
 Package: xbioc
