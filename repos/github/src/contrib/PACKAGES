@@ -125,7 +125,7 @@ GithubFork: no
 Path: ./github.com/renozao/pkgmaker/tarball/master
 
 Package: repotools
-Version: 1.7.7
+Version: 1.7.6
 Depends: R (>= 3.0)
 Imports: digest, tools, pkgmaker (>= 0.25.8), devtools (>= 1.6.1),
         RCurl, stringr
@@ -137,7 +137,7 @@ GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-GithubSHA1: 81c03819abcfa14f4e4a0e0414abab7918819b06
+GithubSHA1: 123ccb3620224c3d86be474b376513d3e84677c0
 Path: ./github.com/renozao/repotools/tarball/master
 
 Package: xbioc
