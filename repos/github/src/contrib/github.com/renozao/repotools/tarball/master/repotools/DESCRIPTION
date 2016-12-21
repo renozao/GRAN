@@ -1,7 +1,7 @@
 Package: repotools
 Type: Package
 Title: Tools for R Package Repositories
-Version: 1.7.5
+Version: 1.7.7
 Date: 2016-12-21
 Authors@R: person('Renaud', 'Gaujoux', email = 'renaud@tx.technion.ac.il', role
     = c('aut', 'cre'))
@@ -26,9 +26,9 @@ Suggests:
     plyr
 Collate:
     'GRAN.R'
-    'utils.R'
     'url.R'
     'download.R'
+    'utils.R'
     'api.R'
     'drat.R'
     'github.R'
@@ -37,5 +37,5 @@ Collate:
 GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
-GithubSHA1: 99ed755643f6863ec7fd6c635f5651a93407a59b
+GithubSHA1: e0e8cef4703c5aaf3da6fe8d877ef404e9b53c33
 GithubFork: no
