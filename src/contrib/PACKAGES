@@ -138,17 +138,17 @@ Depends: R (>= 3.0.0), stats, registry
 
 Package: repotools
 Version: 1.7.6
-Imports: digest, tools, pkgmaker (>= 0.25.8), devtools (>= 1.6.1),
-        RCurl, stringr
-Suggests: BiocInstaller, hwriter, ReportingTools, plyr
+Imports: utils, digest, tools, pkgmaker (>= 0.25.8), devtools (>=
+        1.6.1), RCurl, stringr, rversions, plyr
+Suggests: BiocInstaller, hwriter, ReportingTools
 License: GPL (>= 2)
 NeedsCompilation: yes
-Date: 2016-12-21
+Date: 2016-12-23
 GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-GithubSHA1: d11e5e6fcf2f996b19d19c98948c2a3d0edb6369
+GithubSHA1: bd1f3f4b9aa803ace693e0c16b31dd8e32b8cf3e
 Path: ./github.com/renozao/repotools/tarball/master
 Depends: R (>= 3.0)
 
