@@ -36,18 +36,33 @@ GithubFork: no
 Path: ./github.com/renozao/applyBy/tarball/master
 
 Package: CLIR
-Version: 1.1.7
+Version: 1.1.8
 Imports: tools, argparse, proto, digest, roxygen2
 Suggests: devtools
 License: GPL (>= 2)
 NeedsCompilation: no
-Date: 2016-12-15
+Date: 2016-12-24
 GithubRepo: CLIR
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
-GithubSHA1: 666e9fb2f7d662246fbe4af8bd6660682394f2f0
+GithubSHA1: e3181eea611ada9917991b491590224906e0cf4d
 Path: ./github.com/renozao/CLIR/tarball/develop
+Depends: methods, yaml
+
+Package: CLIR
+Version: 1.1.8
+Imports: tools, argparse, proto, digest, roxygen2
+Suggests: devtools
+License: GPL (>= 2)
+NeedsCompilation: no
+Date: 2016-12-24
+GithubRepo: CLIR
+GithubUsername: renozao
+GithubRef: master
+GithubFork: no
+GithubSHA1: b4f7ac9a7bb32dde051ac2642ef87a26f569bd3d
+Path: ./github.com/renozao/CLIR/tarball/master
 Depends: methods, yaml
 
 Package: dbutils
