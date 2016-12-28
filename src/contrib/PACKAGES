@@ -36,17 +36,18 @@ GithubFork: no
 Path: ./github.com/renozao/applyBy/tarball/master
 
 Package: CLIR
-Version: 1.1.8
-Imports: tools, utils, argparse, proto, digest, roxygen2
-Suggests: devtools, rmarkdown, pkgmaker
+Version: 1.1.9
+Imports: tools, utils, backports, argparse, proto, digest, roxygen2,
+        pkgmaker
+Suggests: devtools, rmarkdown
 License: GPL (>= 2)
 NeedsCompilation: no
-Date: 2016-12-27
+Date: 2016-12-28
 GithubRepo: CLIR
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
-GithubSHA1: 8527714107ac5d641178b31c7e60a494d764f3a6
+GithubSHA1: 439cba90e3c2b67d8a857a1903f2cad993c1d3ca
 Path: ./github.com/renozao/CLIR/tarball/develop
 Depends: methods, yaml
 
