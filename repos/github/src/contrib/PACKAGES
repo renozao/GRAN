@@ -37,7 +37,7 @@ GithubRepo: CLIR
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
-GithubSHA1: 439cba90e3c2b67d8a857a1903f2cad993c1d3ca
+GithubSHA1: 2325108a8280ff661207861a595c67351f8bc5f2
 Path: ./github.com/renozao/CLIR/tarball/develop
 
 Package: CLIR
