@@ -1,8 +1,8 @@
 Package: pkgmaker
 Type: Package
 Title: Development Utilities for R Packages
-Version: 0.25.10
-Date: 2016-02-26
+Version: 0.26.1
+Date: 2016-12-28
 Author: Renaud Gaujoux
 Maintainer: Renaud Gaujoux <renaud@tx.technion.ac.il>
 Description: This package provides some low-level utilities to use for package
@@ -23,7 +23,7 @@ Depends:
     stats,
     registry
 Imports:
-    methods,
+	methods,
     tools,
     grDevices,
     utils,
@@ -31,7 +31,8 @@ Imports:
     codetools,
     digest,
     stringr,
-    xtable
+    xtable,
+    withr
 Suggests:
     devtools (>= 0.8),
     bibtex,
@@ -39,8 +40,7 @@ Suggests:
     testthat,
     knitr,
     rmarkdown,
-    yaml,
-    argparse
+    yaml
 Collate:
     'bibtex.R'
     'colors.R'
@@ -68,5 +68,5 @@ VignetteBuilder: knitr
 GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: develop
-GithubSHA1: acf32d974fe4f6b586d1cfe7a69b74a0c4f7afea
+GithubSHA1: 3da3aca931ab98847b230c5b0590156be33b43ce
 GithubFork: no
