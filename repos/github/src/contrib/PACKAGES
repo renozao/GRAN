@@ -141,19 +141,19 @@ GithubFork: no
 Path: ./github.com/renozao/pkgmaker/tarball/master
 
 Package: repotools
-Version: 1.7.6
-Depends: R (>= 3.0)
-Imports: utils, digest, tools, pkgmaker (>= 0.25.8), devtools (>=
-        1.6.1), RCurl, stringr, rversions, plyr
-Suggests: BiocInstaller, hwriter, ReportingTools
+Version: 1.8
+Depends: R (>= 3.0), devtools (>= 1.12)
+Imports: utils, stats, methods, tools, stringr, digest, pkgmaker (>=
+        0.26.2), RCurl, rversions, plyr
+Suggests: BiocInstaller, httr, DT, rmarkdown
 License: GPL (>= 2)
 NeedsCompilation: yes
-Date: 2016-12-23
+Date: 2016-12-31
 GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
 GithubFork: no
-GithubSHA1: 0e5093374657466ab3a2dca58a8fb32f16715381
+GithubSHA1: 74c1136f1d62c76368278b662dd24bf05dcbaca1
 Path: ./github.com/renozao/repotools/tarball/master
 
 Package: xbioc
