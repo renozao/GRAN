@@ -121,19 +121,19 @@ Depends: R (>= 3.1.0), methods, utils, pkgmaker (>= 0.25.7), registry,
         rngtools (>= 1.2.3), cluster
 
 Package: pkgmaker
-Version: 0.26.1
+Version: 0.26.2
 Imports: methods, tools, grDevices, utils, graphics, codetools, digest,
         stringr, xtable, withr
 Suggests: devtools (>= 0.8), bibtex, RUnit, testthat, knitr, rmarkdown,
         yaml
 License: GPL (>= 2)
 NeedsCompilation: no
-Date: 2016-12-28
+Date: 2016-12-31
 GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: develop
 GithubFork: no
-GithubSHA1: 3da3aca931ab98847b230c5b0590156be33b43ce
+GithubSHA1: 1f5f3c37466e575570e5dec5206b112708d6176a
 Path: ./github.com/renozao/pkgmaker/tarball/develop
 Depends: R (>= 3.0.0), stats, registry
 
