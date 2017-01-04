@@ -2,7 +2,7 @@ Package: repotools
 Type: Package
 Title: Tools for R Package Repositories
 Version: 1.8
-Date: 2016-12-31
+Date: 2017-01-04
 Authors@R: person('Renaud', 'Gaujoux', email = 'renaud@tx.technion.ac.il', role
     = c('aut', 'cre'))
 Description: Provides utilities to facilitate the creation and usage of
@@ -28,7 +28,8 @@ Suggests:
 	BiocInstaller,
 	httr,
     DT,
-    rmarkdown
+    rmarkdown,
+    testthat
 Collate:
     'url.R'
     'download.R'
@@ -44,5 +45,5 @@ RoxygenNote: 5.0.1.9000
 GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
-GithubSHA1: 74c1136f1d62c76368278b662dd24bf05dcbaca1
+GithubSHA1: 588b60f71bba1af4f586ab4eeb820bc07965452f
 GithubFork: no
