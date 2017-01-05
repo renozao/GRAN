@@ -2,7 +2,7 @@ Package: repotools
 Type: Package
 Title: Tools for R Package Repositories
 Version: 1.8
-Date: 2017-01-04
+Date: 2017-01-05
 Authors@R: person('Renaud', 'Gaujoux', email = 'renaud@tx.technion.ac.il', role
     = c('aut', 'cre'))
 Description: Provides utilities to facilitate the creation and usage of
@@ -45,5 +45,5 @@ RoxygenNote: 5.0.1.9000
 GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
-GithubSHA1: 588b60f71bba1af4f586ab4eeb820bc07965452f
+GithubSHA1: 7f61344aa39a73bf16bfb4413c3a41f3e826d609
 GithubFork: no
