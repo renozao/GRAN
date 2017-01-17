@@ -41,11 +41,12 @@ Collate:
     'remote-auth.R'
     'patches-devtools.R'
     'repositories.R'
+BiocView: Utilities
 Remotes: renozao/pkgmaker@develop
 RoxygenNote: 5.0.1.9000
 Roxygen: list(markdown = TRUE)
 GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
-GithubSHA1: fda9d8424a910f035fc270ac51898e760627edaa
+GithubSHA1: 3c096032815087bb161875aa6087c4a0f511dbf2
 GithubFork: no
