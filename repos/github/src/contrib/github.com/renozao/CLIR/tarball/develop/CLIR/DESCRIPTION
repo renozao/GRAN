@@ -1,8 +1,8 @@
 Package: CLIR
 Type: Package
 Title: Command Line Interface for R Packages
-Version: 1.1.9
-Date: 2017-01-11
+Version: 1.1.10
+Date: 2017-01-18
 Author: Renaud Gaujoux
 Maintainer: Renaud Gaujoux <renaud@tx.technion.ac.il>
 Description: More about what it does (maybe more than one line)
@@ -18,10 +18,11 @@ Imports:
     proto,
     digest,
     roxygen2,
-    pkgmaker
+    pkgmaker,
+    rmarkdown,
+    knitr
 Suggests:
-    devtools,
-    rmarkdown
+    devtools
 Collate:
     'utils.R'
     'CLI.R'
@@ -31,8 +32,9 @@ Collate:
     'rd.R'
     'service.R'
 RoxygenNote: 5.0.1.9000
+Roxygen: list(markdown = TRUE)
 GithubRepo: CLIR
 GithubUsername: renozao
 GithubRef: develop
-GithubSHA1: e7f7defec9ccc742b36c1f35bec873d367c84e18
+GithubSHA1: d69fb9413c563a16fffed194ff10fbc9185891e5
 GithubFork: no
