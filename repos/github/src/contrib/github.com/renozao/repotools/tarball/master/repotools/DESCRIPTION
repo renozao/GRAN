@@ -19,12 +19,13 @@ Imports:
     methods,
     tools,
     stringi,
+    magrittr,
     bitops,
     xml2,
     withr,
     stringr,
     digest,
-    pkgmaker (>= 0.26.2),
+    pkgmaker (>= 0.26.3),
     RCurl,
     rversions,
     plyr
@@ -52,5 +53,5 @@ Roxygen: list(markdown = TRUE)
 GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
-GithubSHA1: d2aba99c40d54500dd98844561fb092fe074eed8
+GithubSHA1: eac24c22e54ba068c48984cd6971657c7cdbc3d0
 GithubFork: no
