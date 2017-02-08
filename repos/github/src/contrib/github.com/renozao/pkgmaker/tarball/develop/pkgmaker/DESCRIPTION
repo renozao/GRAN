@@ -20,10 +20,10 @@ SCM: github+gran:renozao, r-forge
 LazyLoad: yes
 Depends:
     R (>= 3.0.0),
+    methods,
     stats,
     registry
 Imports:
-	methods,
     tools,
     grDevices,
     utils,
@@ -37,13 +37,14 @@ Imports:
     withr
 Suggests:
     devtools (>= 0.8),
-    bibtex,
+    bibtex (>= 0.4),
+    roxygen2,
     RUnit,
     testthat,
     knitr,
     rmarkdown,
     yaml
-Collate:
+Collate: 
     'bibtex.R'
     'colors.R'
     'data.R'
@@ -67,8 +68,10 @@ Collate:
     'vignette.R'
     'with.r'
 VignetteBuilder: knitr
+RoxygenNote: 6.0.0.9000
+Roxygen: list(markdown = TRUE)
 GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: develop
-GithubSHA1: 406caeef7da038776e09056ae6ae88be16429252
+GithubSHA1: 60682868304a79983c078b5c47d1c071587b7a5a
 GithubFork: no
