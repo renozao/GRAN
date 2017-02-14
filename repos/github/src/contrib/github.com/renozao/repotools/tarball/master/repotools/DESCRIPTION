@@ -1,8 +1,8 @@
 Package: repotools
 Type: Package
 Title: Tools for R Package Repositories
-Version: 1.8.5
-Date: 2017-01-19
+Version: 1.8.6
+Date: 2017-02-14
 Authors@R: person('Renaud', 'Gaujoux', email = 'renaud@tx.technion.ac.il', role
     = c('aut', 'cre'))
 Description: Provides utilities to facilitate the creation and usage of
@@ -22,6 +22,7 @@ Imports:
     magrittr,
     bitops,
     xml2,
+    Rcpp,
     withr,
     stringr,
     digest,
@@ -48,10 +49,10 @@ Collate:
     'repositories.R'
 BiocView: Utilities
 Remotes: renozao/pkgmaker@develop
-RoxygenNote: 5.0.1.9000
+RoxygenNote: 6.0.0.9000
 Roxygen: list(markdown = TRUE)
 GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
-GithubSHA1: eac24c22e54ba068c48984cd6971657c7cdbc3d0
+GithubSHA1: 6fde006fe04a02f407500dceb971fcbaa409165a
 GithubFork: no
