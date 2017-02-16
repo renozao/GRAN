@@ -1,14 +1,15 @@
 Package: xbioc
 Type: Package
 Title: Extra Base Functions for Bioconductor
-Version: 0.1.5
-Date: 2016-12-06
+Version: 0.1.6
+Date: 2017-02-16
 Authors@R: person("Renaud", "Gaujoux", role=c('aut', 'cre'),
     email='renaud@tx.technion.ac.il')
 Description: Provides extra utility functions to perform common tasks in
     the analysis of omic data, leveraging and enhancing features provided
     by Bioconductor packages.
 License: GPL (>= 3)
+Remotes: renozao/pkgmaker@develop
 Depends:
     R (>= 3.1),
     methods,
@@ -17,7 +18,8 @@ Depends:
 Imports:
     stats,
     pkgmaker (>= 0.25.4),
-    plyr
+    plyr,
+    stringr
 Suggests:
     repotools,
     hgu133plus2.db,
@@ -34,8 +36,11 @@ Collate:
     'operations.R'
     'package.R'
     'platforms.R'
+    'plots.R'
+RoxygenNote: 6.0.0.9000
+Roxygen: list(markdown = TRUE, roclets = c('collate', 'namespace', 'roclets::rd2_roclet'))
 GithubRepo: xbioc
 GithubUsername: renozao
 GithubRef: master
-GithubSHA1: 8e124b92d1a3b344a2e7c474a765846de52e8d0d
+GithubSHA1: ceb04d6e63f2cba1247ca215a61daa06ebb23e92
 GithubFork: no
