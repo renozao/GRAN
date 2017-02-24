@@ -36,5 +36,5 @@ Roxygen: list(markdown = TRUE)
 GithubRepo: CLIR
 GithubUsername: renozao
 GithubRef: develop
-GithubSHA1: edc1f946de611cd90be6c588a0cf610875b639ed
+GithubSHA1: c7e6eeb9dec2eaf8792b304ff853f1fb69ea655f
 GithubFork: no
