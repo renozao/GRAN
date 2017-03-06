@@ -1,8 +1,8 @@
 Package: pkgmaker
 Type: Package
 Title: Development Utilities for R Packages
-Version: 0.26.3
-Date: 2017-02-08
+Version: 0.26.4
+Date: 2017-03-06
 Author: Renaud Gaujoux
 Maintainer: Renaud Gaujoux <renaud@tx.technion.ac.il>
 Description: This package provides some low-level utilities to use for package
@@ -48,16 +48,16 @@ Collate:
     'bibtex.R'
     'colors.R'
     'data.R'
-    'utils.R'
-    'logging.R'
-    'unitTests.R'
     'namespace.R'
+    'utils.R'
     'devutils.R'
     'files.R'
     'graphics.R'
+    'options.R'
+    'logging.R'
+    'unitTests.R'
     'is.R'
     'knitr.R'
-    'options.R'
     'registry.R'
     'package-extra.R'
     'package.R'
@@ -73,5 +73,5 @@ Roxygen: list(markdown = TRUE)
 GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: develop
-GithubSHA1: 60682868304a79983c078b5c47d1c071587b7a5a
+GithubSHA1: 1308d145071f6d08131a62a3b3eb440a65c57d5b
 GithubFork: no
