@@ -73,5 +73,5 @@ Roxygen: list(markdown = TRUE)
 GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: develop
-GithubSHA1: 59c8840503a98c4f64b5bcd21af9f944c41b87b8
+GithubSHA1: 64289a1315e4344c35abb1f31f9cdb28200ceadf
 GithubFork: no
