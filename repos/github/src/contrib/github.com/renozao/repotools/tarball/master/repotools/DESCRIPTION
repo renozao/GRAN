@@ -54,5 +54,5 @@ Roxygen: list(markdown = TRUE)
 GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
-GithubSHA1: 62a5c0512b5fcbea828e9d331b15c169e7cd1dd2
+GithubSHA1: 431a29618231010c273896b807ea29ea72692f9a
 GithubFork: no
