@@ -2,7 +2,7 @@ Package: xbioc
 Type: Package
 Title: Extra Base Functions for Bioconductor
 Version: 0.1.6
-Date: 2017-03-06
+Date: 2017-03-09
 Authors@R: person("Renaud", "Gaujoux", role=c('aut', 'cre'),
     email='renaud@tx.technion.ac.il')
 Description: Provides extra utility functions to perform common tasks in
@@ -37,10 +37,11 @@ Collate:
     'package.R'
     'platforms.R'
     'plots.R'
+    'stats.R'
 RoxygenNote: 6.0.0.9000
 Roxygen: list(markdown = TRUE, roclets = c('collate', 'namespace', 'roclets::rd2_roclet'))
 GithubRepo: xbioc
 GithubUsername: renozao
 GithubRef: master
-GithubSHA1: 2ef2d47c0846e9b346c7892157bcb034a6151bd5
+GithubSHA1: b0969a9ddbeed86b61611a73ee02dbd76c9b3fb2
 GithubFork: no
