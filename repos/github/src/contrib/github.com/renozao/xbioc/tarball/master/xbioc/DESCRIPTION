@@ -1,8 +1,8 @@
 Package: xbioc
 Type: Package
 Title: Extra Base Functions for Bioconductor
-Version: 0.1.7
-Date: 2017-03-09
+Version: 0.1.8
+Date: 2017-03-10
 Authors@R: person("Renaud", "Gaujoux", role=c('aut', 'cre'),
     email='renaud@tx.technion.ac.il')
 Description: Provides extra utility functions to perform common tasks in
@@ -25,12 +25,13 @@ Suggests:
     hgu133plus2.db,
     org.Hs.eg.db
 biocViews: Software
-Collate:
+Collate: 
     'utils.R'
     'AllClasses.R'
     'AllGenerics.R'
     'annotations.R'
     'db-packages.R'
+    'eset-utils.R'
     'flow.R'
     'idtype.R'
     'marray.R'
@@ -44,5 +45,5 @@ Roxygen: list(markdown = TRUE, roclets = c('collate', 'namespace', 'roclets::rd2
 GithubRepo: xbioc
 GithubUsername: renozao
 GithubRef: master
-GithubSHA1: fc051823b14e9b1ab0c75071edd30e62c96da558
+GithubSHA1: e0164cdce6f7f6ea5dcc91539b17c667a36a0eb6
 GithubFork: no
