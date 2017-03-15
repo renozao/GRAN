@@ -1,8 +1,8 @@
 Package: repotools
 Type: Package
 Title: Tools for R Package Repositories
-Version: 1.8.7
-Date: 2017-03-09
+Version: 1.8.9
+Date: 2017-03-15
 Authors@R: person('Renaud', 'Gaujoux', email = 'renaud@tx.technion.ac.il', role
     = c('aut', 'cre'))
 Description: Provides utilities to facilitate the creation and usage of
@@ -47,12 +47,12 @@ Collate:
     'remote-auth.R'
     'patches-devtools.R'
     'repositories.R'
-BiocView: Utilities
+biocViews: Utilities
 Remotes: renozao/pkgmaker@develop
 RoxygenNote: 6.0.0.9000
 Roxygen: list(markdown = TRUE)
 GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
-GithubSHA1: 431a29618231010c273896b807ea29ea72692f9a
+GithubSHA1: bc57bcfa76fc23b3a3f1487a625d214b0f971bea
 GithubFork: no
