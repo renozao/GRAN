@@ -2,7 +2,7 @@ Package: NMF
 Type: Package
 Title: Algorithms and framework for Nonnegative Matrix Factorization (NMF)
 Version: 0.23.4
-Date: 2017-01-17
+Date: 2017-04-11
 Author: Renaud Gaujoux, Cathal Seoighe
 Maintainer: Renaud Gaujoux <renaud@tx.technion.ac.il>
 Description: This package provides a framework to perform Non-negative Matrix
@@ -15,15 +15,15 @@ License: GPL (>=2)
 URL: http://renozao.github.io/NMF
 BugReports: http://github.com/renozao/NMF/issues
 SCM: github+gran:renozao, r-forge
-Remotes: renozao/pkgmaker@develop
+Remotes: 
+	renozao/pkgmaker@develop
 LazyLoad: yes
 VignetteBuilder: knitr
-Remotes: renozao/pkgmaker@develop
 Depends:
     R (>= 3.1.0),
     methods,
     utils,
-    pkgmaker (>= 0.25.7),
+    pkgmaker (>= 0.26.6),
     registry,
     rngtools (>= 1.2.3),
     cluster
@@ -56,13 +56,13 @@ Suggests:
     RUnit,
     mail,
     Biobase
-Collate:
+Collate: 
     'AnnotatedData-class.R'
     'AnnotatedData-methods.R'
-    'colorcode.R'
-    'nmf-package.R'
+    'aaa-package.R'
     'rmatrix.R'
     'utils.R'
+    'colorcode.R'
     'options.R'
     'grid.R'
     'atracks.R'
@@ -108,8 +108,10 @@ Collate:
     'setNMFClass.R'
     'simulation.R'
     'tests.R'
+RoxygenNote: 6.0.0.9000
+Roxygen: list(markdown = TRUE, namespace_unsorted = TRUE, roclets = c('collate', 'namespace', 'roclets::rd2_roclet'))
 GithubRepo: NMF
 GithubUsername: renozao
 GithubRef: devel
-GithubSHA1: b26e3e31890d864ab4cf14a58aea6666bbc95774
+GithubSHA1: d0a95e44fff6ff4a49d0c1427e50eb6eab2454c2
 GithubFork: no
