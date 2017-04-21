@@ -23,7 +23,8 @@ Imports:
 Suggests:
     repotools,
     hgu133plus2.db,
-    org.Hs.eg.db
+    org.Hs.eg.db,
+    reactome.db
 biocViews: Software
 Collate: 
     'utils.R'
@@ -45,5 +46,5 @@ Roxygen: list(markdown = TRUE, roclets = c('collate', 'namespace', 'roclets::rd2
 GithubRepo: xbioc
 GithubUsername: renozao
 GithubRef: master
-GithubSHA1: 2972bc7c531c65ac9a9a13a092c9db878eab60b1
+GithubSHA1: f3a31b4b32f876ca3d7839678c28261cf5f23f96
 GithubFork: no
