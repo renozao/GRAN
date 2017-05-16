@@ -2,7 +2,7 @@ Package: repotools
 Type: Package
 Title: Tools for R Package Repositories
 Version: 1.8.9
-Date: 2017-03-15
+Date: 2017-05-16
 Authors@R: person('Renaud', 'Gaujoux', email = 'renaud@tx.technion.ac.il', role
     = c('aut', 'cre'))
 Description: Provides utilities to facilitate the creation and usage of
@@ -49,10 +49,10 @@ Collate:
     'repositories.R'
 biocViews: Utilities
 Remotes: renozao/pkgmaker@develop
-RoxygenNote: 6.0.0.9000
+RoxygenNote: 6.0.1.9000
 Roxygen: list(markdown = TRUE)
 GithubRepo: repotools
 GithubUsername: renozao
 GithubRef: master
-GithubSHA1: 43db07c156e88c773bcf41348c35d9bce4971f01
+GithubSHA1: d3df858325b2d0ccd58135df7fe77b711ff39958
 GithubFork: no
