@@ -113,5 +113,5 @@ Roxygen: list(markdown = TRUE, namespace_unsorted = TRUE, roclets = c('collate',
 GithubRepo: NMF
 GithubUsername: renozao
 GithubRef: devel
-GithubSHA1: f68e0d074966c9cf528f49b78533662df060485a
+GithubSHA1: cf093b0f48509024e6e5b4aaa6ce0931b25aefe4
 GithubFork: no
