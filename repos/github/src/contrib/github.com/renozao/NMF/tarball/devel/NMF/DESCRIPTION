@@ -1,8 +1,8 @@
 Package: NMF
 Type: Package
 Title: Algorithms and framework for Nonnegative Matrix Factorization (NMF)
-Version: 0.23.4
-Date: 2017-06-13
+Version: 0.23.5
+Date: 2017-06-14
 Author: Renaud Gaujoux, Cathal Seoighe
 Maintainer: Renaud Gaujoux <renaud@tx.technion.ac.il>
 Description: This package provides a framework to perform Non-negative Matrix
@@ -41,7 +41,8 @@ Imports:
     doParallel (>= 1.0.8),
     ggplot2,
     reshape2,
-    dendextend
+    dendextend,
+    magrittr
 Suggests:
     RcppOctave (>= 0.11),
     fastICA,
@@ -108,10 +109,10 @@ Collate:
     'setNMFClass.R'
     'simulation.R'
     'tests.R'
-RoxygenNote: 6.0.0.9000
+RoxygenNote: 6.0.1.9000
 Roxygen: list(markdown = TRUE, namespace_unsorted = TRUE, roclets = c('collate', 'namespace', 'roclets::rd2_roclet'))
 GithubRepo: NMF
 GithubUsername: renozao
 GithubRef: devel
-GithubSHA1: badddd7b48f1367372a03c05bf52d99b21fa3bc9
+GithubSHA1: c8a6d5811d4474d6a892c38c3b7551fd5fe5b60d
 GithubFork: no
