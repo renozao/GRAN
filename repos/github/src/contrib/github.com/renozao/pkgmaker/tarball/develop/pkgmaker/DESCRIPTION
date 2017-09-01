@@ -1,8 +1,8 @@
 Package: pkgmaker
 Type: Package
 Title: Development Utilities for R Packages
-Version: 0.26.8
-Date: 2017-08-24
+Version: 0.26.9
+Date: 2017-09-01
 Author: Renaud Gaujoux
 Maintainer: Renaud Gaujoux <renaud@tx.technion.ac.il>
 Description: This package provides some low-level utilities to use for package
@@ -73,5 +73,5 @@ Roxygen: list(markdown = TRUE)
 GithubRepo: pkgmaker
 GithubUsername: renozao
 GithubRef: develop
-GithubSHA1: 19c242b51eea59aeb78f8b450dea6382a352e0e1
+GithubSHA1: 717558ec841e0c7845a24c00b2a92d120072a599
 GithubFork: no
