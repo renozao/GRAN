@@ -46,5 +46,5 @@ Roxygen: list(markdown = TRUE, roclets = c('collate', 'namespace', 'roclets::rd2
 GithubRepo: xbioc
 GithubUsername: renozao
 GithubRef: master
-GithubSHA1: 083b6c50a7334dfca5559bfbaad9c00da6020007
+GithubSHA1: 2dd21747554890b60854b388a350560c8e4481f1
 GithubFork: no
